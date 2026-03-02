@@ -69,9 +69,10 @@ Located in `frontend/` built with Vite + React.
 
 <img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/30fc5507-7190-4a9d-903a-ab5b7d4cf6c2" />
 
-<img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/605b53e7-4bcc-4411-bee3-6d799825bac2" />
+<img width="1579" height="773" alt="image" src="https://github.com/user-attachments/assets/fd74f2d9-857d-405a-a940-64114328c9aa" />
 
-<img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/fcf51193-9a79-4a63-b3b9-8b26cf371792" />
+<img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/7e87f791-6414-4e64-ba40-93293eec5f2f" />
+
 
 
 Enjoy exploring and tweaking the module!
