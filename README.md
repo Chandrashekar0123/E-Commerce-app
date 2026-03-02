@@ -69,7 +69,8 @@ Located in `frontend/` built with Vite + React.
 
 <img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/30fc5507-7190-4a9d-903a-ab5b7d4cf6c2" />
 
-<img width="1474" height="711" alt="image" src="https://github.com/user-attachments/assets/c051b8a1-8045-449c-a4c4-2d02bd2f9f47" />
+<img width="1593" height="621" alt="image" src="https://github.com/user-attachments/assets/0808eeb8-5dea-4f4e-8620-e4dd22d3b076" />
+
 
 
 <img width="1474" height="711" alt="image" src="https://github.com/user-attachments/assets/c3131e59-eab0-404a-bbff-e25e1e15bf88" />
