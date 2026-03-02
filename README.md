@@ -3,6 +3,7 @@
 This workspace contains a simple MERN (MongoDB, Express, React, Node) mini e-commerce application.
 
 <img width="1589" height="762" alt="image" src="https://github.com/user-attachments/assets/a7dae151-ed93-46e8-9b69-fadcda8b1575" />
+User Interface of the web page
 
 ## Backend
 
@@ -66,17 +67,20 @@ Located in `frontend/` built with Vite + React.
 
 
 <img width="1579" height="773" alt="image" src="https://github.com/user-attachments/assets/78d95835-0a26-4e4d-83d9-5e7b4d24a930" />
+Searching of a product
 
 <img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/30fc5507-7190-4a9d-903a-ab5b7d4cf6c2" />
+Added products to the cart
 
 <img width="1593" height="621" alt="image" src="https://github.com/user-attachments/assets/0808eeb8-5dea-4f4e-8620-e4dd22d3b076" />
-
+ordering a Product
 
 
 <img width="1474" height="711" alt="image" src="https://github.com/user-attachments/assets/c3131e59-eab0-404a-bbff-e25e1e15bf88" />
 
-<img width="1474" height="711" alt="image" src="https://github.com/user-attachments/assets/0e46cb89-9c63-4ff8-af3b-4f1cad0699da" />
 
+<img width="1474" height="711" alt="image" src="https://github.com/user-attachments/assets/0e46cb89-9c63-4ff8-af3b-4f1cad0699da" />
+Adding products to the web page
 
 
 Enjoy exploring and tweaking the module!
