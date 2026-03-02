@@ -2,6 +2,8 @@
 
 This workspace contains a simple MERN (MongoDB, Express, React, Node) mini e-commerce application.
 
+<img width="1589" height="762" alt="image" src="https://github.com/user-attachments/assets/a7dae151-ed93-46e8-9b69-fadcda8b1575" />
+
 ## Backend
 
 Located in `backend/`
@@ -61,5 +63,15 @@ Located in `frontend/` built with Vite + React.
 
 - The "Place Order" button only shows an alert; no actual order processing.
 - The code is intended for learning and demonstration.
+
+
+<img width="1579" height="773" alt="image" src="https://github.com/user-attachments/assets/78d95835-0a26-4e4d-83d9-5e7b4d24a930" />
+
+<img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/30fc5507-7190-4a9d-903a-ab5b7d4cf6c2" />
+
+<img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/605b53e7-4bcc-4411-bee3-6d799825bac2" />
+
+<img width="1584" height="298" alt="image" src="https://github.com/user-attachments/assets/fcf51193-9a79-4a63-b3b9-8b26cf371792" />
+
 
 Enjoy exploring and tweaking the module!
